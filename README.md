@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ji-bop
-- 👀 I’m interested in Tech.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on Web development.
+<h3>Hi there 👋</h3>
+<p>-  I’m Gabel aka @ji-bop</p>
+<p>-  Thanks for visiting 🙏👏🙌</p>
+<p>-  It isn't much but...💞️</p>
+<p>-  I try to water my plants everyday 🌱</p>
+<p>-  So feel free to take a look around.</p>
+<p>-  HMU if you have any questions. Why use google anyway? 😁</p>
 - 📫 g.progleiva@gmail.com.
 
-<!---
-ji-bop/ji-bop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
